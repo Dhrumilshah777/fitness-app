@@ -1,0 +1,28 @@
+{
+  "workouts": [
+    {
+      "id": "1",
+      "exercise": "Running",
+      "duration": 30,
+      "calories": 300,
+      "type": "cardio",
+      "date": "2025-09-26"
+    },
+    {
+      "id": "2",
+      "exercise": "Push Ups",
+      "duration": 15,
+      "calories": 120,
+      "type": "strength",
+      "date": "2025-09-26"
+    },
+    {
+      "id": "3",
+      "exercise": "Yoga Stretch",
+      "duration": 45,
+      "calories": 180,
+      "type": "yoga",
+      "date": "2025-09-25"
+    }
+  ]
+}
