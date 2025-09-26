@@ -60,9 +60,7 @@ const Dashboard = () => {
             <Link to="/diet" className="bg-yellow-500 text-white px-4 py-2 rounded hover:bg-yellow-600 flex items-center gap-2">
               🍽️ Diet Tracker
             </Link>
-            <Link to="/photo" className="bg-purple-500 text-white px-4 py-2 rounded hover:bg-purple-600 flex items-center gap-2">
-              📷 Upload Photo
-            </Link>
+           
             <Link to="/chart" className="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 flex items-center gap-2">
               <FaChartLine /> Chart
             </Link>
@@ -101,3 +99,4 @@ const Dashboard = () => {
 };
 
 export default Dashboard;
+
